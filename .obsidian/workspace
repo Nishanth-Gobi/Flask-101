@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "6a962cfaad7bf569",
+    "type": "split",
+    "children": [
+      {
+        "id": "de04e0165b7b6957",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Flask.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76191c935b5bafc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b7947a990964a1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e5f96276c7dc5bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bac876f3fa6f0b93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dfc58130202fb00a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a08dd7f1c29bfab1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fc5c510032e4337",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Flask.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "de04e0165b7b6957",
+  "lastOpenFiles": [
+    "Flask.md",
+    "Templates.md",
+    "Untitled.md",
+    "Java/JVM vs JRE vs JDK.md",
+    "Java/Java.md",
+    "Java/Screenshot from 2021-08-21 01-11-18.png"
+  ]
+}
